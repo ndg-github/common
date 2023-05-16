@@ -1,5 +1,4 @@
 plugins {
-    id "common"
     id "groovy-gradle-plugin"
 }
 
